@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome in my profile ^^
 
-### Who am I?
+### 🔭 Who am I?
 I'm Aymen and I'm:
 
 - a Cloud Native Lead Enginner (I prefer "Cloud Native Helper") and Senior SRE.
@@ -29,7 +29,7 @@ I'm a technology enthusiast who love to:
 - give talks
 - record technical videos
 ...
-#### Expertises 
+### 🌱 Expertises 
 - substantial experience in managing large scale infrastructures.
 - extensive experience architecting, building and running Kubernetes/Containers Platforms on Cloud from ground up.
 - strong experience with Cloud Systems: building, deploying, running and operating large distributed systems with Azure, AWS and GCP
@@ -38,6 +38,6 @@ I'm a technology enthusiast who love to:
 - experienced in Python and Go development, mainly developing automation pipelines and RESTful API.
 - experience with procedures and culture to support applications 24x7.
 
-### Contact me
+### 📫 How to reach me
 - [Twitter](https://twitter.com/Aymen_SEGNI)
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni-62ba5abb)
