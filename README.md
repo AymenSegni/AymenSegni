@@ -25,7 +25,7 @@ I'm Aymen and I'm:
 I'm a technology enthusiast who love to:
 
 - share with others
-- write articles especially on aymen-segni.com, Medium (and more...)
+- write articles especially on [A⎈PS Solutions](https://aymen-segni.com), Medium (and more...)
 - give talks
 - record technical videos
 ...
@@ -41,3 +41,4 @@ I'm a technology enthusiast who love to:
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/Aymen_SEGNI)
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni-62ba5abb)
+- [A⎈PS Solutions](https://aymen-segni.com)
