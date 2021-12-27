@@ -41,3 +41,4 @@ I'm a technology enthusiast who love to:
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni-62ba5abb)
 - [A⎈PS Solutions](https://aymen-segni.com)
+- [Twitter](https://twitter.com/aops_solutions)
