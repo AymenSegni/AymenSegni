@@ -19,7 +19,7 @@ Welcome in my profile ^^
 ### 🔭 Who am I?
 I'm Aymen and I'm:
 
-- a DevOps Lead Enginner.
+- a SRE and Platform Lead Enginner.
 - I enjoy accompanying small businesses as well as big groups, helping them future-proof outdated infrastructure  with modern cloud native solutions and helping in transforming the way they work.
 
 I'm a technology enthusiast who love to:
