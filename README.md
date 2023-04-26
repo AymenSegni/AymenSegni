@@ -25,7 +25,7 @@ I'm Aymen and I'm:
 I'm a technology enthusiast who love to:
 
 - share with others
-- write articles especially on [A⎈PS Solutions](https://aymen-segni.com), Medium (and more...)
+- write articles especially on [RunItOnCloud](https://aymen-segni.com), Medium (and more...)
 - give talks
 - record technical videos
 ...
