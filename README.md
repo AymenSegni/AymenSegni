@@ -39,6 +39,6 @@ I'm a technology enthusiast who love to:
 - experience with procedures and culture to support applications 24x7.
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/aymen-segni-62ba5abb)
-- [A⎈PS Solutions](https://aymen-segni.com)
+- [LinkedIn](https://www.linkedin.com/in/aymen-segni)
+- [RunItOnCloud](https://aymen-segni.com)
 - [Twitter](https://twitter.com/aops_solutions)
