@@ -22,10 +22,10 @@ I'm Aymen and I'm:
 - Dedicated Platform / Site Reliability Engineering Leader with over a decade of experience in architecting, building, deploying, and managing large-scale Cloud platforms and Kubernetes/Containers environments. 
 - Proven leader in driving Cloud Native transformations, enhancing SRE practices, and ensuring secure, efficient, and resilient systems.
 
-I'm a technology enthusiast who love to:
+I'm a technology enthusiast who loves to:
 
-- share with others
-- write articles especially on [RunItOnCloud](https://aymen-segni.com), Medium (and more...)
+- Share with others
+- write articles
 - give talks
 - record technical videos
 ...
@@ -41,5 +41,5 @@ I'm a technology enthusiast who love to:
 - Programming: Adept with 8 years of Python development and 3 years of Go development, contributing to toil automation and infra tooling
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni)
-- [RunItOnCloud](https://aymen-segni.com)
+- [MentorCruise](https://mentorcruise.com/mentor/aymensegni/)
 - [Twitter](https://twitter.com/aops_solutions)
