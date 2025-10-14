@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome in my profile ^^
+Welcome to my profile ^^
 
 ### 🔭 Who am I?
 I'm Aymen and I'm:
@@ -30,16 +30,17 @@ I'm a technology enthusiast who loves to:
 - record technical videos
 ...
 ### 🌱 Expertises 
-- Cloud Systems: Proficient in architecting, deploying, and managing distributed systems on Azure, AWS, and GCP and OpenStack (8 years)
+- Cloud Systems: Proficient in architecting, deploying, and managing distributed systems on Azure, AWS, GCP, and OpenStack (8 years)
 - Kubernetes/Containers: 8 years of impactful production involvement in constructing and maintaining Container and Kubernetes platforms, harnessing the full power of highly scalable Cloud Native Apps.
 - Strong Leadership: A rich background encompassing 5 years of leadership experience, including roles as Tech Lead, Team Lead, and Group Lead, showcasing adept people management and exceptional interpersonal skills.
-- Demonstrated track in applying SRE principles, encompassing SLOs, Observability, Monitoring, Alerting, and Incident Management, with a track record of optimizing system reliability.
+- Demonstrated track record in applying SRE principles, encompassing SLOs, Observability, Monitoring, Alerting, and Incident Management, with a track record of optimizing system reliability.
 - Cloud Native Ecosystem: A 5-year immersion in the Cloud Native landscape, adeptly utilizing Service Mesh, GitOps, Network Policies, Admission Controllers, API Gateways, and more.
-- DevSecOps: Well-versed in safeguarding Cloud-Native applications and adeptly implementing DevSecOps practices to ensure a robust security posture.
-- Modern Platform Engineering: A solid 5-year experience in empowering self-service, GitOps and internal development platforms, leveraging tools such as Backstage and Keptn to streamline processes.
-- Configuration Management and Infrastructure as Code: A seasoned practitioner, proficient in leveraging Terraform (8 years), Helm, Ansible, Salt, and Chef to orchestrate large scale and complex (Cloud) infrastructural components.
+- DevSecOps: Well-versed in safeguarding Cloud-Native applications and adeptly at implementing DevSecOps practices to ensure a robust security posture.
+- Modern Platform Engineering: A solid 5-year experience in empowering self-service, GitOps, and internal development platforms, leveraging tools such as Backstage and Keptn to streamline processes.
+- Configuration Management and Infrastructure as Code: A seasoned practitioner, proficient in leveraging Terraform (8 years), Helm, Ansible, Salt, and Chef to orchestrate large-scale and complex (Cloud) infrastructural components.
 - Programming: Adept with 8 years of Python development and 3 years of Go development, contributing to toil automation and infra tooling
 ### 📫 How to reach me
+- [Aymen Segni Blog](https://aymen-segni.com)
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni)
 - [MentorCruise](https://mentorcruise.com/mentor/aymensegni/)
-- [Twitter](https://twitter.com/aops_solutions)
+- [Twitter](https://x.com/axsegni)
