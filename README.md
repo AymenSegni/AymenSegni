@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **AymenSegni/AymenSegni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,21 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Welcome to my profile ^^
 
-### 🔭 Who am I?
+## 🔭 Who am I?
+
 I'm Aymen and I'm:
 
 - Dedicated Platform / Site Reliability Engineering Leader with over a decade of experience in architecting, building, deploying, and managing large-scale Cloud platforms and Kubernetes/Containers environments. 
 - Proven leader in driving Cloud Native transformations, enhancing SRE practices, and ensuring secure, efficient, and resilient systems.
 
 ## 📫 How to reach me
+
 - [Aymen Segni Blog](https://aymen-segni.com)
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni)
 - [MentorCruise](https://mentorcruise.com/mentor/aymensegni/)
 - [Twitter](https://x.com/axsegni)
 
-### 🌱 Expertises 
+### 🌱 Expertises
+
 - Cloud Systems: Proficient in architecting, deploying, and managing distributed systems on Azure, AWS, GCP, and OpenStack (8 years)
 - Kubernetes/Containers: 8 years of impactful production involvement in constructing and maintaining Container and Kubernetes platforms, harnessing the full power of highly scalable Cloud Native Apps.
 - Strong Leadership: A rich background encompassing 5 years of leadership experience, including roles as Tech Lead, Team Lead, and Group Lead, showcasing adept people management and exceptional interpersonal skills.
@@ -53,57 +57,62 @@ I'm Aymen and I'm:
 * Delivered an internal developer platform with Terraform, GitHub Actions, Atlantis, and ArgoCD. 
 * Implemented anomaly detection to cut alert fatigue and speed diagnosis in incident management.
 
-**Languages and Tools I Use:**
+## **Some Selected Technologies From My Tech Stack**
 
-<!--  platforms -->
+### Platforms
+
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg"></code>
 
-<!-- infrastructure -->
+### Infrastructure
+
 <code></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-original-wordmarksvg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraformterraform-original-wordmark.svg"/></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg"/></code>
 
-<!--  databases -->
+### Databases
+
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
 
-<!-- o11y -->
+### Observability and Monitoring
+
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"/></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg"/></code>
 
+### Languages
 
-<!--  languages -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 
-<!--  CD/CD systems -->
+### CI/CD
+
 <code></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original-wordmark.svg"></code>
 
-<!-- frameworks  -->
+### Frameworks
+
 <code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"/></code>
 <code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"/></code>
 <code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original-wordmark.svg"/></code>
 
 <!--  -->
-
-<code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Metrics](https://github.com/AymenSegni/AymenSegni/blob/metrics/github-metrics.svg)
 
