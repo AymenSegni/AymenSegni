@@ -64,11 +64,11 @@ I'm Aymen and I'm:
 <!-- infrastructure -->
 <code></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-original-wordmarksvg"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/terrafprm/terraform-original-wordmark.svg"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraformterraform-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original-wordmark.svg"/></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg"/></code>
 
 <!--  databases -->
@@ -77,6 +77,12 @@ I'm Aymen and I'm:
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
+
+<!-- o11y -->
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg"/></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"/></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg"/></code>
+
 
 <!--  languages -->
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
@@ -96,3 +102,11 @@ I'm Aymen and I'm:
 <code> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original-wordmark.svg"/></code>
 
 <!--  -->
+
+<code><img  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Metrics](https://github.com/AymenSegni/AymenSegni/blob/metrics/github-metrics.svg)
+
+![](https://visitor-badge.glitch.me/badge?page_id=aymen-segni.com)
+
+<!--END_SECTION:waka-->
