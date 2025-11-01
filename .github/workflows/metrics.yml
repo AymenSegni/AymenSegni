@@ -3,6 +3,8 @@
 # example: https://github.com/afrizaloky/afrizaloky/blob/70044b44fff97784144dacc4e80f7b08328c701c/.github/workflows/main.yml
 # example2: https://github.com/Variiuz/variiuz/blob/e406a1f4c7389d9a0383b8839702e78ce81ab9f4/.github/workflows/stuff.yml
 name: metrics
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 18 * * *"
