@@ -17,21 +17,28 @@ Here are some ideas to get you started:
 
 Welcome to my profile ^^
 
-## 🔭 Who am I?
+## Who am I?
 
 I'm Aymen and I'm:
 
 - Dedicated Platform / Site Reliability Engineering Leader with over a decade of experience in architecting, building, deploying, and managing large-scale Cloud platforms and Kubernetes/Containers environments. 
-- Proven leader in driving Cloud Native transformations, enhancing SRE practices, and ensuring secure, efficient, and resilient systems.
+- Proven track in driving Cloud Native transformations, enhancing SRE practices, and ensuring secure, efficient, and resilient systems.
 
-## 📫 How to reach me
+
+<em><a href="https://github.com/kubernetes-sigs">kubernets-sigs member</a>
+<em><a href="https://github.com/kubernetes-sigs/gateway-api-inference-extension">Gateway API Inference Extension member</a>
+<em><a href="https://github.com/knative">Knavtive Serving WG member</a>
+
+> Open for new gigs
+
+### Connect with me:
 
 - [Aymen Segni Blog](https://aymen-segni.com)
 - [LinkedIn](https://www.linkedin.com/in/aymen-segni)
 - [MentorCruise](https://mentorcruise.com/mentor/aymensegni/)
 - [Twitter](https://x.com/axsegni)
 
-### 🌱 Expertises
+### Expertises
 
 - Cloud Systems: Proficient in architecting, deploying, and managing distributed systems on Azure, AWS, GCP, and OpenStack (8 years)
 - Kubernetes/Containers: 8 years of impactful production involvement in constructing and maintaining Container and Kubernetes platforms, harnessing the full power of highly scalable Cloud Native Apps.
@@ -57,7 +64,25 @@ I'm Aymen and I'm:
 * Delivered an internal developer platform with Terraform, GitHub Actions, Atlantis, and ArgoCD. 
 * Implemented anomaly detection to cut alert fatigue and speed diagnosis in incident management.
 
-## **Some Selected Technologies From My Tech Stack**
+## **Selected OpenSource Projects**
+
+1. **Terraform**
+
+   - [AWS OpenID Connect for Github Action Terraform module](https://registry.terraform.io/modules/drizzle-ai-systems/oidc-github-actions/aws/latest)
+   - [WiP-EKS-vLLM-Prod-Stack-Terraform-Blueprint](https://github.com/drizzle-ai-systems/eks-vllm-production-stack-terraform-blueprint)
+   - [Linkerd2 Helm Terraform](https://registry.terraform.io/modules/AymenSegni/linkerd2/helm/latest)
+   - [GKE & PostgreSQL Terraform](https://github.com/AymenSegni/gcp-gke-terraform-k8s)
+     
+2. **Python**
+   - [https://github.com/drizzle-ai-systems/pre-commit-sops](https://github.com/drizzle-ai-systems/pre-commit-sops)
+   - [ZFS File Storage Manager API with Salt and Flask](https://github.com/AymenSegni/zfs-manager-api)
+   - [Incident Manager Slack Bot](https://github.com/AymenSegni/py_incident_bot/tree/main)
+
+3. **Kubernetes Operators**
+   - [Kube Admission Controller](https://github.com/AymenSegni/kube-admission-controller)
+   - [WiP-Hibernates](https://github.com/AymenSegni/hibernates)
+     
+## **Selected Technologies From My Tech Stack**
 
 ### Platforms
 
