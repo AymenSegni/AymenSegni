@@ -51,20 +51,22 @@ I help engineering teams make it 10x Easier to production-grade AI Infrastructur
 
 ## **Selected Open Source Projects**
 
-1. **Terraform**
-   - [AWS OpenID Connect for Github Action](https://registry.terraform.io/modules/drizzle-ai-systems/oidc-github-actions/aws/latest)
-   - [EKS vLLM Production Stack Blueprint](https://github.com/drizzle-ai-systems/eks-vllm-production-stack-terraform-blueprint)
-   - [Linkerd2 Helm Terraform Module](https://registry.terraform.io/modules/AymenSegni/linkerd2/helm/latest)
-   - [GKE & PostgreSQL Terraform](https://github.com/AymenSegni/gcp-gke-terraform-k8s)
-
-2. **Python**
+1. **Python**
+   - [AWS MCP Gateway](https://github.com/AymenSegni/aws-mcp-gateway)
    - [Pre-commit SOPS Hook](https://github.com/drizzle-ai-systems/pre-commit-sops)
    - [ZFS File Storage Manager API](https://github.com/AymenSegni/zfs-manager-api)
    - [Incident Manager Slack Bot](https://github.com/AymenSegni/py_incident_bot/tree/main)
 
-3. **Kubernetes Operators**
+2. **Kubernetes Operators**
    - [Kube Admission Controller](https://github.com/AymenSegni/kube-admission-controller)
    - [Hibernates (WiP)](https://github.com/AymenSegni/hibernates)
+
+3. **Terraform**
+   - [vLLM EKS Helm Module](https://registry.terraform.io/modules/drizzle-ai-systems/terraform-aws-vllm-eks-helm)
+   - [AWS OpenID Connect for Github Action](https://registry.terraform.io/modules/drizzle-ai-systems/oidc-github-actions/aws/latest)
+   - [EKS vLLM Production Stack Blueprint](https://github.com/drizzle-ai-systems/eks-vllm-production-stack-terraform-blueprint)
+   - [Linkerd2 Helm Terraform Module](https://registry.terraform.io/modules/AymenSegni/linkerd2/helm/latest)
+   - [GKE & PostgreSQL Terraform](https://github.com/AymenSegni/gcp-gke-terraform-k8s)
 
 ## **Tech Stack**
 
