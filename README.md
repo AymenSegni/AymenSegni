@@ -75,6 +75,6 @@ Google Cloud Professional Cloud Architect (2019). Google Cloud Associate Cloud E
 
 ## Contact
 
-- Website: [aymen-segni.com](https://aymen-segni.com) and [drizzle.systems](https://drizzle.systems)
+- Website: [aymensegni.com](https://aymensegni.com) and [drizzle.systems](https://drizzle.systems)
 - LinkedIn: [linkedin.com/in/aymen-segni](https://www.linkedin.com/in/aymen-segni)
 - X: [@axsegni](https://x.com/axsegni)
